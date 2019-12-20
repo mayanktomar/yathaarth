@@ -1,6 +1,5 @@
 import React from 'react';
 import { Component } from 'react';
-import Layout from './components/Layout';
 import Header from './components/Header';
 import Form from './components/Form';
 import './App.css';
